@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ddeebug
 - 👀 I’m interested in ...learning
 - 🌱 I’m currently learning ...server-side languages
-- 💞️ I’m looking to collaborate on ...penTesters
+- 💞️ I’m looking to collaborate on ...pentesting web applications
 - 📫 How to reach me ...just leave a message
 
 <!---
