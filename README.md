@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ddeebug
+- 👋 Hi, I’m @TheBug
 - 👀 I’m interested in ...learning
 - 🌱 I’m currently learning ...computer architectures and os internals
 - 💞️ I’m looking to collaborate on ...pentesting web application
